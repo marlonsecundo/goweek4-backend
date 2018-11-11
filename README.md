@@ -1,8 +1,8 @@
 # Go Week 4 - Backend
 
-###Rockeat Seat Training
+### Rockeat Seat Training
 
-####Techonlogies
+#### Techonlogies
 
 * Javascript
 * MongoDB
